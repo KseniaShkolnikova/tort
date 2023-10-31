@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\игрушки\игрушки\bin\Debug\net7.0\игрушки.exe
+C:\Users\user1\source\repos\игрушки\игрушки\bin\Debug\net7.0\игрушки.deps.json
+C:\Users\user1\source\repos\игрушки\игрушки\bin\Debug\net7.0\игрушки.runtimeconfig.json
+C:\Users\user1\source\repos\игрушки\игрушки\bin\Debug\net7.0\игрушки.dll
+C:\Users\user1\source\repos\игрушки\игрушки\bin\Debug\net7.0\игрушки.pdb
+C:\Users\user1\source\repos\игрушки\игрушки\obj\Debug\net7.0\игрушки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\игрушки\игрушки\obj\Debug\net7.0\игрушки.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\игрушки\игрушки\obj\Debug\net7.0\игрушки.AssemblyInfo.cs
+C:\Users\user1\source\repos\игрушки\игрушки\obj\Debug\net7.0\игрушки.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\игрушки\игрушки\obj\Debug\net7.0\игрушки.dll
+C:\Users\user1\source\repos\игрушки\игрушки\obj\Debug\net7.0\refint\игрушки.dll
+C:\Users\user1\source\repos\игрушки\игрушки\obj\Debug\net7.0\игрушки.pdb
+C:\Users\user1\source\repos\игрушки\игрушки\obj\Debug\net7.0\игрушки.genruntimeconfig.cache
+C:\Users\user1\source\repos\игрушки\игрушки\obj\Debug\net7.0\ref\игрушки.dll
